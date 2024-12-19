@@ -1,5 +1,4 @@
-# weather conditions = (sunny, rainy, cold)
-weather = 'windy'
+weather = 'sunny'
 print(f"What's the weather like today?: {weather}")
 if weather == 'sunny':
     print("Wear a t-shirt and sunglasses.")
